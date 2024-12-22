@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m Saam Sani
+I’m passionate about technology and enjoy solving problems through creative and impactful solutions. My interests span web development, game development, and exploring emerging fields like AI and blockchain. I thrive on turning ideas into reality with a mix of technical expertise and innovation.
 
-<!--
-**SaamSani/SaamSani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in: Vancouver, BC
+📧 Email: saamsani04@gmail.com
+🔗 Portfolio: Coming soon!
+🤝 Open to: Collaborating on exciting projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+Programming Languages: Python, JavaScript, C/C++, SQL, R
+Web Development: HTML5, CSS3, React.js, Node.js, PostgreSQL, REST APIs, Bootstrap
+Game Development: Unreal Engine 5, C++, Blueprint
+🌐 Connect With Me
+💼 LinkedIn
