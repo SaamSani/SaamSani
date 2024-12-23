@@ -20,4 +20,4 @@ I’m passionate about technology and enjoy solving problems through creative an
 - Unreal Engine 5, C++, Blueprint  
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/saamsani)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/SaamSani)
