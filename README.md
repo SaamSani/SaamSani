@@ -5,7 +5,7 @@ I’m passionate about technology and enjoy solving problems through creative an
 ## 🌍 About Me  
 - 📍 **Based in:** Vancouver, BC  
 - 📧 **Email:** [saamsani04@gmail.com](mailto:saamsani04@gmail.com)  
-- 🚀 **Portfolio:** Coming soon!  
+- 🚀 **Portfolio:** [www.saamsani.com](https://www.saamsani.com/)  
 - 🤝 **Open to:** Collaborating on exciting projects  
 
 ## 💻 Skills  
