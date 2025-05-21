@@ -36,7 +36,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <img src="https://img.shields.io/badge/NumPy-FF0000?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/TensorFlow-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Seaborn-FF0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=000000" />
 </p>
 
 <h3 align="center">DEVELOPER TOOLS</h3>
