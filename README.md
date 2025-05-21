@@ -1,134 +1,127 @@
-<!-- CYBERPUNK THEMED HEADER -->
-<div align="center">
-  
-  # `S A A M  S A N I`
-  
-  ![](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=222222)
-  ![](https://img.shields.io/badge/LOCATION-VANCOUVER_BC-blue?style=for-the-badge&labelColor=222222)
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> S A A M &nbsp; S A N I
 
-  <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake-dark.svg" width="100%">
-  
-  ```diff
-  + AI | CRYPTO | FINANCIAL MARKETS +
-  ```
-</div>
+![Matrix Binary](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=AI+SPECIALIST+%7C+CRYPTO+ANALYST+%7C+MARKET+PREDATOR)
 
-<!-- DIGITAL BORDER -->
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/Status-ONLINE-1eff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=302b63"></a>
+  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/Location-VANCOUVER_BC-00a8cc?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=302b63"></a>
+  <img src="https://komarev.com/ghpvc/?username=SaamSani&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
 
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="100%">
+</p>
 
-<!-- ABOUT ME SECTION -->
-## `> whoami`
+---
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> SYS_PROFILE
 
 ```js
-const saam = {
-  location: "Vancouver, BC",
-  interests: ["AI", "Cryptocurrency", "Stock Market Analysis"],
-  skills: {
-    languages: ["Python", "JavaScript", "C/C++", "SQL", "R", "HTML/CSS"],
-    libraries: ["scikit-learn", "Pandas", "NumPy", "TensorFlow", "Matplotlib"],
-    tools: ["Git/GitHub", "Postman", "Tableau"],
-    frameworks: ["React.js", "Node.js", "REST APIs", "Bootstrap"]
-  },
-  current_focus: "Building AI-powered predictive systems for crypto & financial markets"
-};
+class TechSpecialist {
+  constructor() {
+    this.name = "Saam Sani";
+    this.base = "Vancouver, BC";
+    this.language = {
+      primary: ["Python", "JavaScript", "C++"],
+      secondary: ["SQL", "R", "HTML/CSS"]
+    };
+    this.specialization = {
+      ai: ["TensorFlow", "scikit-learn", "Neural Networks"],
+      crypto: ["Market Analytics", "Blockchain", "Trading Algorithms"],
+      finance: ["Prediction Models", "Pattern Recognition", "Technical Analysis"]
+    };
+  }
+
+  get focus() {
+    return "Decoding market patterns through advanced AI algorithms";
+  }
+}
 ```
 
-I'm a data-driven tech enthusiast who transforms complex problems into elegant solutions at the intersection of AI, cryptocurrencies, and financial markets. Using advanced algorithms and data science, I create systems that reveal hidden patterns in market behavior and optimize for maximum performance.
+## <img src="https://media.giphy.com/media/3o7btQ8jDTPGDpgc6I/giphy.gif" width="40"> CORE_SKILLS
 
-<!-- TECH STACK SECTION -->
-## `> tech_stack.exe`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+</p>
 
-  <!-- PROGRAMMING LANGUAGES -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  
-  <!-- FRAMEWORKS & LIBRARIES -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=0D1117" />
+</p>
 
-  <!-- TOOLS -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  
-</div>
-
-<!-- INTEREST AREAS - WITH CYBERPUNK STYLING -->
-## `> primary_missions`
+## <img src="https://media.giphy.com/media/mGZMxJVGP0RSqVOY5X/giphy.gif" width="40"> MISSION_PARAMETERS
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-AI_SYSTEMS-6600ff?style=for-the-badge" /><br>
-      <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/gotham.svg" width="110" height="auto"><br>
-      <b>Machine learning models for predictive analysis</b><br>
-      Neural networks, NLP, computer vision
+    <td align="center">
+      <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="200">
+      <br>
+      <h3>AI SYSTEMS</h3>
+      <p>Machine learning models for predictive analysis and pattern detection in complex data environments</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-CRYPTO_ANALYTICS-00ccff?style=for-the-badge" /><br>
-      <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/classic.svg" width="110" height="auto"><br>
-      <b>Cryptocurrency market intelligence</b><br>
-      Blockchain data mining, trading algorithms
+    <td align="center">
+      <img src="https://media.giphy.com/media/HVNvHYNOBQsfu/giphy.gif" width="200">
+      <br>
+      <h3>CRYPTO ANALYTICS</h3>
+      <p>Blockchain data mining and sophisticated trading algorithms for crypto market intelligence</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-MARKET_PREDICTION-ff3399?style=for-the-badge" /><br>
-      <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/flying.svg" width="110" height="auto"><br>
-      <b>Stock market pattern recognition</b><br>
-      Financial modeling, technical indicators
+    <td align="center">
+      <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="200">
+      <br>
+      <h3>MARKET PREDICTION</h3>
+      <p>Financial modeling and technical analysis for stock market pattern recognition</p>
     </td>
   </tr>
 </table>
 
-<!-- CONNECT WITH ME SECTION -->
-## `> establish_connection`
+## <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="40"> NEURAL_LINK
+
+<p align="center">
+  <a href="https://linkedin.com/in/SaamSani">
+    <img src="https://img.shields.io/badge/-%2F%2FLINKEDIN.connect()-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="mailto:ssa515@sfu.ca">
+    <img src="https://img.shields.io/badge/-%2F%2FEMAIL.send()-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://saamsani.com">
+    <img src="https://img.shields.io/badge/-%2F%2FWEBSITE.launch()-ff00ff?style=for-the-badge&logo=brave&logoColor=white&labelColor=0D1117"/>
+  </a>
+</p>
+
+## <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"> SYSTEM_METRICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaamSani&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&theme=synthwave&hide_border=true" />
+</div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SaamSani)
-  [![Email](https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssa515@sfu.ca)
-  [![Website](https://img.shields.io/badge/WEBSITE-Visit-00FFFF?style=for-the-badge&logo=brave&logoColor=white)](https://saamsani.com)
-  [![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaamSani)
-  
-</div>
-
-<!-- FOOTER WITH COOL ASCII ART -->
-<div align="center">
-  
-  ```
-  +-+-+-+-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+-+-+-+-+
-  |E|X|P|L|O|R|I|N|G| |D|A|T|A| |F|R|O|M| |V|A|N|C|O|U|V|E|R|
-  +-+-+-+-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+-+-+-+-+
-  ```
-  
-  ![Visitor Count](https://profile-counter.glitch.me/SaamSani/count.svg)
-  
-  <!-- GITHUB STATS CARD WITH DARK THEME -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&theme=radical&hide_border=true" alt="Saam's GitHub stats" />
-  
-  <!-- MOST USED LANGUAGES WITH DARK THEME -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaamSani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+```
+╔═══════════════════════════════ ∘◦ ☆ ◦∘ ═══════════════════════════════╗
+      EXPLORING DATA STREAMS FROM THE EDGE OF VANCOUVER'S NETWORK      
+╚═══════════════════════════════ ∘◦ ☆ ◦∘ ═══════════════════════════════╝
+```
 
 </div>
 
-<!-- COOL WAVE PATTERN AT BOTTOM -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
-
-<!-- PROFILE VIEWS COUNTER -->
-<div align="right">
-
-  ![](https://komarev.com/ghpvc/?username=SaamSani&color=blueviolet&style=for-the-badge)
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontAlignY=40&customColorList=12,23,24,14,7" width="100%"/>
+</p>
