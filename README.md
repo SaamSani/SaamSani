@@ -104,7 +104,7 @@
 <!-- Social Icons with more style similar to the example image provided -->
 <div align="center">
   <a href="https://linkedin.com/in/SaamSani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:ssa515@sfu.ca">
     <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
