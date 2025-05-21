@@ -4,7 +4,9 @@
 
 <hr>
 
-<h2 align="center">ABOUT ME</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-ABOUT_ME-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+</div>
 
 <p align="center">
 I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
@@ -12,7 +14,9 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-<h2 align="center">TECHNICAL SKILLS</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-TECHNICAL_SKILLS-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+</div>
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
 <p align="center">
@@ -68,12 +72,14 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-<h2 align="center">CONNECTION PORT</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-CONNECTION_PORT-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
-  <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website"></a>
+  <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000000" alt="Website"></a>
   <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
 </p>
 
