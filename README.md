@@ -10,10 +10,6 @@
 </div>
 
 <!-- About Me Section with better styling -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="600">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Cryptocurrency+Researcher;Marketing+Strategist;AI+Explorer" alt="Typing SVG" />
   </p>
   <p>I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.</p>
 </div>
