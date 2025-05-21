@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-ABOUT_ME-8B0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ABOUT_ME-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-TECHNICAL_SKILLS-FF1A1A?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TECHNICAL_SKILLS-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
 </div>
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
@@ -43,7 +43,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <p align="center">
   <img src="https://img.shields.io/badge/Git/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Postman-FF0000?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Tableau-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIzIDNWMGg0djNIMjN6TTIzIDQ3djNoNHYtM0gyM3ptOC0yNXYtNmg2di02aDR2NmgtNnY2aDEydjRIMzl2Nmg2djZoLTR2LTZoLTZ2Nmg0di02aDZWMjJIMzF6bTAgMTBoLTZ2LTZoNnY2em0tMTQtNnY2aC02VjI2aDZ6bS0xMC02djZoLTZ2NmgtNHYtNmg2di02SDN2LTRoMTJ2NGgtNHptNCA2di02aC02djZoNnptNi0xOFY4aDZWMmg0djZoLTZ2Nmg2VjhoNlYyaDR2NmgtNnY2aDEydjRIMzl2Nmg2djZoLTR2LTZoLTZ2Nmg0di02aDZ2LTZIMzF2LTRoLTh6TTkgMThWOGg2VjJoNHY2aC02djZoNlYyaDZWOGg2djEwSDlWOGg2djEwaDR2LTZoLTZ2NkgxOVYyaC00djZoLTZ2MTBoLTR6TTIzIDM5di02aDR2NmgtNHptMC0xMHYtNGg0djRoLTR6bTAtOHYtNmg0djZoLTR6Ii8+PC9zdmc+&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tableau-FF0000?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000" />
 </p>
 
 <h3 align="center">TECHNOLOGIES/FRAMEWORKS</h3>
@@ -73,11 +73,11 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-CONNECTION_PORT-FF4500?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CONNECTION_PORT-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/SaamSani"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
   <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000000" alt="Website"></a>
   <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
