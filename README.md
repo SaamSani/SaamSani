@@ -1,16 +1,15 @@
 # SAAM SANI
 
 <div align="center">
-  <kbd>LOCATION: VANCOUVER BC</kbd> <kbd>CONTACT: SSA515@SFU.CA</kbd>
+  <span style="background-color:#1e2124;padding:5px 10px;border-radius:5px;color:white">LOCATION: VANCOUVER BC</span>
+  <span style="background-color:#1e2124;padding:5px 10px;border-radius:5px;color:white">CONTACT: SSA515@SFU.CA</span>
 </div>
 
 ---
 
 ## ABOUT ME
 
-<div style="background-color:#000000;padding:15px;">
 I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
-</div>
 
 ---
 
@@ -61,11 +60,11 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ff0677&title_color=05d9e8&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=ff0677&title_color=05d9e8&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=000000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=05d9e8&sideLabels=05d9e8&dates=ffffff&fire=ff0677&ring=b000ff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=1e1e2e&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=05d9e8&sideLabels=05d9e8&dates=cdd6f4&fire=ff0677&ring=b000ff&hide_border=true" />
 </div>
 
 ---
@@ -73,10 +72,10 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <h2>CONNECTION PORT</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
-  <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-ff0677?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
-  <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-05d9e8?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Website"></a>
-  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-b000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn"></a>
+  <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-ff0677?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Email"></a>
+  <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-05d9e8?style=for-the-badge&logo=safari&logoColor=white&labelColor=1e1e2e" alt="Website"></a>
+  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-b000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="GitHub"></a>
 </p>
 
 <div align="center">
