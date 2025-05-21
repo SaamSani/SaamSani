@@ -1,7 +1,7 @@
-<!-- Improved welcome banner with cyberpunk style -->
+<!-- Custom welcome banner inspired by BrunnerLivio -->
 <div align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=190&section=header&text=SAAM%20SANI&fontSize=70&fontColor=FF00FF&animation=twinkling&fontAlignY=35&desc=Cryptocurrency%20|%20AI%20|%20Digital%20Marketing&descAlignY=55&descSize=15&descColor=00F0FF" width="100%" alt="Cyberpunk Header"/>
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Welcome banner" width="100%"/>
   </a>
 </div>
 
@@ -93,30 +93,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=0D1117&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00FF&sideLabels=00F0FF&dates=BF00FF&fire=FF00FF&ring=FFDF00&hide_border=true" />
 </div>
 
-<!-- Technologies I'm Working With Section (similar to the example image provided) -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/oJiGznmQRcKuDLs3Y7/giphy.gif" width="40">
-  Tech Journey
-</h2>
-
-<h3>Currently Working With:</h3>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</div>
-
-<h3>Learning:</h3>
-<div>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 </div>
@@ -145,9 +121,4 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaamSani&style=flat-square&color=00F0FF">
 </div>
