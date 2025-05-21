@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ABOUT_ME-FF0000?style=for-the-badge&color=FF0000&labelColor=000000" />
+  <img src="https://placehold.co/600x80/000000/FF0000?text=ABOUT+ME&font=montserrat" alt="ABOUT ME" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TECHNICAL_SKILLS-FF0000?style=for-the-badge&logoColor=white&labelColor=FF0000" />
+  <img src="https://placehold.co/600x80/000000/FF0000?text=TECHNICAL+SKILLS&font=montserrat" alt="TECHNICAL SKILLS" />
 </div>
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
@@ -73,7 +73,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CONNECTION_PORT-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://placehold.co/600x80/000000/FF0000?text=CONNECTION+PORT&font=montserrat" alt="CONNECTION PORT" />
 </div>
 
 <p align="center">
