@@ -1,17 +1,16 @@
 # SAAM SANI
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=435&lines=AI+Specialist;Crypto+Analyst;Market+Strategist" alt="Typing SVG" />
+  <span style="color:#b000ff;font-size:32px">Crypto Analyst</span>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-VANCOUVER_BC-00CED1?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/CONTACT-SSA515@SFU.CA-FF1493?style=flat-square&labelColor=1a1a1a" />
+  <span style="background:#1a1a1a;padding:5px">LOCATION</span>
+  <span style="background:#05d9e8;padding:5px">VANCOUVER BC</span>
+  <span style="background:#1a1a1a;padding:5px">CONTACT</span>
+  <span style="background:#ff0677;padding:5px">SSA515@SFU.CA</span>
 </p>
 
-<p align="center">
-  <code>+ AI | CRYPTO | FINANCIAL MARKETS +</code>
-</p>
 
 ---
 
@@ -19,7 +18,7 @@
 
 I'm a data-driven tech enthusiast based in Vancouver, BC. I specialize in building sophisticated AI systems that solve complex problems and reveal hidden patterns in data. My passion lies at the intersection of technology and financial analysis.
 
-```js
+``` js
 class DataSpecialist {
   constructor() {
     this.name = "Saam Sani";
@@ -83,7 +82,7 @@ class DataSpecialist {
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF1493?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/REST_APIs-ff0677?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a" />
 </p>
 
@@ -92,36 +91,62 @@ class DataSpecialist {
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Blueprint-00CED1?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Blueprint-05d9e8?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=1a1a1a" />
 </p>
 
+---
+
+<div align="center">
+  <h2>SYSTEM CONFIG</h2>
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>AI & Machine Learning</h3>
+      <p>Developing neural networks and predictive models to decode patterns and extract insights from complex datasets</p>
+    </td>
+    <td align="center">
+      <h3>Crypto & Financial Markets</h3>
+      <p>Building sophisticated algorithms to analyze market movements and identify profitable opportunities</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>AI-Powered Marketing</h3>
+      <p>Leveraging machine learning to optimize campaign performance and drive data-based decision making</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&theme=radical&bg_color=1a1a1a&text_color=ffffff&icon_color=A020F0&title_color=FF1493&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&theme=radical&bg_color=1a1a1a&text_color=ffffff&icon_color=b000ff&title_color=ff0677&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&theme=radical&background=1a1a1a&ring=00CED1&fire=FF1493&currStreakLabel=A020F0&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&theme=radical&background=1a1a1a&ring=05d9e8&fire=ff0677&currStreakLabel=b000ff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<h2 align="center">🔌 CONNECTION PORT 🔌</h2>
+<div align="center">
+  <h2>CONNECTION PORT</h2>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/SaamSani">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
   </a>
   <a href="mailto:ssa515@sfu.ca">
-    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ff0677?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
   </a>
   <a href="https://saamsani.com">
-    <img src="https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-05d9e8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Website" />
   </a>
   <a href="https://github.com/SaamSani">
-    <img src="https://img.shields.io/badge/GitHub-A020F0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-b000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
   </a>
 </p>
 
