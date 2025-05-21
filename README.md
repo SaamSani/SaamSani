@@ -15,7 +15,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TECHNICAL_SKILLS-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TECHNICAL_SKILLS-FF0000?style=for-the-badge&logoColor=white&labelColor=FF0000" />
 </div>
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
