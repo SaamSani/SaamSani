@@ -31,8 +31,8 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 </p>
 
 <h3 align="center">DEVELOPER TOOLS</h3>
@@ -46,7 +46,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/REST_APIs-ff0677?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REST_APIs-ff0677?style=for-the-badge&logo=api&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
 </p>
 
@@ -74,6 +74,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-ff0677?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
   <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-05d9e8?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Website"></a>
+  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-b000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
 </p>
 
 <div align="center">
