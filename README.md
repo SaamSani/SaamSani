@@ -1,59 +1,89 @@
+<!-- Improved welcome banner with cyberpunk style -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+Github" alt="Welcome Banner" />
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=190&section=header&text=SAAM%20SANI&fontSize=70&fontColor=FF00FF&animation=twinkling&fontAlignY=35&desc=Cryptocurrency%20|%20AI%20|%20Digital%20Marketing&descAlignY=55&descSize=15&descColor=00F0FF" width="100%" alt="Cyberpunk Header"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 </div>
 
+<!-- About Me Section with better styling -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="600">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Cryptocurrency+Researcher;Marketing+Strategist;AI+Explorer" alt="Typing SVG" />
+  </p>
+  <p>I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.</p>
 </div>
-
-<p align="center">
-I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 </div>
 
+<!-- Languages, Libraries & Tools Section with better icon styling -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> 
-  Technical Skills
+  Tech Stack & Skills
 </h2>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,mysql,r,html,css" />
-</p>
+<!-- Frontend Development Section -->
+<h3 align="center">Frontend Development</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-<h3 align="center">Libraries & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,bootstrap" />
+<!-- Programming Languages Section -->
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<!-- Data Science & AI Section -->
+<h3 align="center">Data Science & AI</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</div>
 
+<!-- Developer Tools Section -->
 <h3 align="center">Developer Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+</div>
 
+<!-- Game Development Section -->
 <h3 align="center">Game Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprint-00BFFF?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 </div>
+
+<!-- Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
+  GitHub Stats
+</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=0D1117&text_color=00F0FF&icon_color=FF00FF&title_color=00F0FF&hide_border=true" />
@@ -63,16 +93,42 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=0D1117&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00FF&sideLabels=00F0FF&dates=BF00FF&fire=FF00FF&ring=FFDF00&hide_border=true" />
 </div>
 
+<!-- Technologies I'm Working With Section (similar to the example image provided) -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/oJiGznmQRcKuDLs3Y7/giphy.gif" width="40">
+  Tech Journey
+</h2>
+
+<h3>Currently Working With:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</div>
+
+<h3>Learning:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
 </div>
 
+<!-- Contact/Connection Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="40">
   Connection Port
 </h2>
 
-<p align="center">
+<!-- Social Icons with more style similar to the example image provided -->
+<div align="center">
   <a href="https://linkedin.com/in/SaamSani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -85,8 +141,13 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <a href="https://github.com/SaamSani">
     <img src="https://img.shields.io/badge/GitHub-FFDF00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
   </a>
-</p>
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaamSani&style=flat-square&color=00F0FF">
 </div>
