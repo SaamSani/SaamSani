@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=05D9E8&center=true&vCenter=true&width=435&lines=SAAM+SANI" alt="SAAM SANI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=SAAM+SANI" alt="SAAM SANI" />
 </div>
 
 <p align="center">
