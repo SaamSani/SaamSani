@@ -1,6 +1,4 @@
-<h1 align="center">Saam Sani</h1>
-
-<p align="center">📍 Vancouver, BC</p>
+<h1 align="center">Hi welcome to my Github</h1>
 
 <hr>
 
