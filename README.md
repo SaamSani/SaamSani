@@ -10,7 +10,9 @@
 </div>
 
 <!-- About Me Section with better styling -->
-  </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="600">
+  
   <p>I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.</p>
 </div>
 
