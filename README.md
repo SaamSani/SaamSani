@@ -74,7 +74,6 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
   <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="mailto:ssa515@sfu.ca"><img src="https://img.shields.io/badge/Email-ff0677?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
   <a href="https://saamsani.com"><img src="https://img.shields.io/badge/Website-05d9e8?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Website"></a>
-  <a href="https://github.com/SaamSani"><img src="https://img.shields.io/badge/GitHub-b000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
 </p>
 
 <div align="center">
