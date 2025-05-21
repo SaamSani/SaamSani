@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ABOUT_ME-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ABOUT_ME-FF0000?style=for-the-badge&color=FF0000&labelColor=000000" />
 </div>
 
 <p align="center">
