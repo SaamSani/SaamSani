@@ -1,10 +1,10 @@
-# Saam Sani
+<h1 align="center">Saam Sani</h1>
 
-📍 Vancouver, BC
+<p align="center">📍 Vancouver, BC</p>
 
 <hr>
 
-## ABOUT ME
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center">
 I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
@@ -12,7 +12,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-## TECHNICAL SKILLS
+<h2 align="center">TECHNICAL SKILLS</h2>
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
 <p align="center">
@@ -68,7 +68,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-## CONNECTION PORT
+<h2 align="center">CONNECTION PORT</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
