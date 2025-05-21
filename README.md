@@ -60,27 +60,6 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 ---
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>AI & Machine Learning</h3>
-      <p>Developing neural networks and predictive models to decode patterns and extract insights from complex datasets</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Crypto & Financial Markets</h3>
-      <p>Building sophisticated algorithms to analyze market movements and identify profitable opportunities</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>AI-Powered Marketing</h3>
-      <p>Leveraging machine learning to optimize campaign performance and drive data-based decision making</p>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ff0677&title_color=05d9e8&hide_border=true" />
 </div>
