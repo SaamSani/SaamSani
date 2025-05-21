@@ -1,7 +1,7 @@
 <!-- Custom welcome banner inspired by BrunnerLivio -->
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Welcome banner" width="100%"/>
+    <img src="[https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png](https://preview.redd.it/github-headers-like-this-v0-d7qsj4b6080f1.gif?format=png8&s=432004e398cfc701f9a9af5e904e87391c7818c1)" alt="Welcome banner" width="100%"/>
   </a>
 </div>
 
