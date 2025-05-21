@@ -1,22 +1,16 @@
 # SAAM SANI
 
 <div align="center">
-<kbd>LOCATION: VANCOUVER BC</kbd> <kbd>CONTACT: SSA515@SFU.CA</kbd>
-
-```diff
-+ AI | CRYPTO | FINANCIAL MARKETS +
-```
+  <kbd>LOCATION: VANCOUVER BC</kbd> <kbd>CONTACT: SSA515@SFU.CA</kbd>
 </div>
 
 ---
 
 ## ABOUT ME
 
-I'm a data-driven tech enthusiast based in Vancouver, BC. I specialize in building sophisticated AI systems that solve complex problems and reveal hidden patterns in data. My passion lies at the intersection of technology and financial analysis.
-
-I leverage advanced machine learning algorithms to decode market patterns and identify profitable opportunities in the cryptocurrency and financial markets. My approach combines cutting-edge AI techniques with deep domain knowledge to create predictive models that extract valuable insights from complex datasets.
-
-Throughout my career, I've developed a specialization in utilizing technology to solve real-world financial challenges. I'm particularly interested in the application of neural networks, natural language processing, and time series analysis to understand market behaviors and optimize trading strategies.
+<div style="background-color:#000000;padding:15px;">
+I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
+</div>
 
 ---
 
