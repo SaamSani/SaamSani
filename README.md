@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=gradient&background=000000&center=true&vCenter=true&width=435&height=70&lines=SAAM+SANI" alt="SAAM SANI" />
-</div>
+# Saam Sani
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-VANCOUVER_BC-b000ff?style=flat-square&labelColor=1e1e4e" />
-</p>
+📍 Vancouver, BC
 
 <hr>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-ABOUT_ME-b000ff?style=for-the-badge&logoColor=white&labelColor=000000" />
-</h2>
+## ABOUT ME
 
 <p align="center">
 I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.
@@ -18,9 +12,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-TECHNICAL_SKILLS-05d9e8?style=for-the-badge&logoColor=white&labelColor=000000" />
-</h2>
+## TECHNICAL SKILLS
 
 <h3 align="center">PROGRAMMING LANGUAGES</h3>
 <p align="center">
@@ -76,9 +68,7 @@ I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and mark
 
 <hr>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-CONNECTION_PORT-ff0677?style=for-the-badge&logoColor=white&labelColor=000000" />
-</h2>
+## CONNECTION PORT
 
 <p align="center">
   <a href="https://linkedin.com/in/SaamSani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
