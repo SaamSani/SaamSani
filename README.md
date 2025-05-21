@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=SAAM+SANI" alt="SAAM SANI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=gradient&background=000000&center=true&vCenter=true&width=435&height=70&lines=SAAM+SANI" alt="SAAM SANI" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-VANCOUVER_BC-05d9e8?style=flat-square&labelColor=1e1e4e" />
+  <img src="https://img.shields.io/badge/LOCATION-VANCOUVER_BC-b000ff?style=flat-square&labelColor=1e1e4e" />
   <img src="https://img.shields.io/badge/CONTACT-SSA515@SFU.CA-ff0677?style=flat-square&labelColor=1e1e2e" />
 </p>
 
