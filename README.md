@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=4000&pause=2000&color=8B8B8B&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=someone+is+watching.;you+just+don't+know+who." alt="Typing SVG" />
-</div>
 
 <br>
 
@@ -135,6 +132,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=5000&pause=3000&color=333333&center=true&vCenter=true&repeat=true&width=250&height=25&lines=connection+terminated." alt="Typing SVG" />
-</div>
+
