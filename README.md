@@ -1,35 +1,40 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&random=false&width=700&height=80&lines=%24+ssh+saam%40github+--connect;%24+access+granted...;%24+loading+profile..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=2000&color=8B8B8B&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+has+entered+the+network.;identity+unknown.;traces+removed." alt="Typing SVG" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="300">
 </div>
 
 <br>
 
+<div align="center">
+
 ```
- ┌──────────────────────────────────────────────────────────────────────┐
- │                                                                      │
- │   $ whoami                                                           │
- │   > Saam Sani                                                        │
- │                                                                      │
- │   $ cat /etc/status                                                  │
- │   > active · building in the shadows                                 │
- │                                                                      │
- │   $ whereis saam                                                     │
- │   > Simon Fraser University                                          │
- │                                                                      │
- └──────────────────────────────────────────────────────────────────────┘
+ ██████╗  ██████╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ████████╗███████╗██████╗
+██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗
+██║      ██║   ██║██████╔╝██████╔╝██║   ██║██████╔╝   ██║   █████╗  ██║  ██║
+██║      ██║   ██║██╔══██╗██╔══██╗██║   ██║██╔═══╝    ██║   ██╔══╝  ██║  ██║
+╚██████╗ ╚██████╔╝██║  ██║██║  ██║╚██████╔╝██║        ██║   ███████╗██████╔╝
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝        ╚═╝   ╚══════╝╚═════╝
 ```
+
+</div>
+
+<br>
 
 <table>
   <tr>
-    <td align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="250">
-    </td>
     <td>
-      <h3>~/about.txt</h3>
-      <blockquote>
-        <p>I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.</p>
-      </blockquote>
+      <p><b>// FILE: <code>classified.txt</code></b></p>
+      <p>Tech enthusiast operating at the intersection of <b>cryptocurrency</b>, <b>stock markets</b>, and <b>marketing</b>. Exploring how AI can be weaponized for financial analysis and digital strategy. The goal is simple — leverage technology to stay ten steps ahead.</p>
+      <br>
+      <p><code>location: ██████████ Fraser University</code></p>
+      <p><code>status: observing</code></p>
+      <p><code>intent: [REDACTED]</code></p>
     </td>
   </tr>
 </table>
@@ -38,39 +43,33 @@
 
 ---
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=450&height=35&lines=%24+cat+%2Fetc%2Farsenal" />
-</div>
+<details>
+<summary><b>▸ known_exploits/</b></summary>
 
 <br>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h4><code>./frontend</code></h4>
-      <br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <p><code>web/</code></p>
+      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=888" />
+      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=888" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=888" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=888" />
+      <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=888" />
     </td>
     <td width="33%" align="center">
-      <h4><code>./languages</code></h4>
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <p><code>lang/</code></p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=888" />
+      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=888" />
+      <img src="https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=888" />
+      <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=888" />
     </td>
     <td width="33%" align="center">
-      <h4><code>./tools</code></h4>
-      <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <p><code>util/</code></p>
+      <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=888" />
+      <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=888" />
+      <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=888" />
     </td>
   </tr>
 </table>
@@ -78,80 +77,66 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <h4><code>./ai-ml</code></h4>
-      <br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <p><code>ai/</code></p>
+      <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=888" />
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=888" />
+      <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=888" />
+      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=888" />
     </td>
     <td width="50%" align="center">
-      <h4><code>./gamedev</code></h4>
-      <br>
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blueprint-00BFFF?style=flat-square&logo=unreal-engine&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <p><code>sim/</code></p>
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0d1117?style=flat-square&logo=unrealengine&logoColor=888" />
+      <img src="https://img.shields.io/badge/Blueprint-0d1117?style=flat-square&logo=unreal-engine&logoColor=888" />
+      <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=888" />
+      <img src="https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=888" />
     </td>
   </tr>
 </table>
 
-<br>
+</details>
 
----
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=450&height=35&lines=%24+neofetch+--stats" />
-</div>
+<details>
+<summary><b>▸ surveillance/</b></summary>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=0d1117&text_color=39FF14&icon_color=39FF14&title_color=39FF14&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=0D1117&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=555555&fire=39FF14&ring=39FF14&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=0d1117&text_color=555555&icon_color=555555&title_color=888888&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaamSani&background=0D1117&currStreakNum=888888&sideNums=888888&currStreakLabel=555555&sideLabels=555555&dates=333333&fire=888888&ring=555555&hide_border=true" />
 </div>
+
+</details>
 
 <br>
 
 ---
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=450&height=35&lines=%24+cat+%2Fetc%2Fcontact.conf" />
-</div>
 
 <br>
 
 <div align="center">
   <a href="https://linkedin.com/in/SaamSani">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=linkedin&logoColor=555" />
   </a>
   &nbsp;
   <a href="mailto:ssa515@sfu.ca">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=39FF14" alt="Email">
+    <img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=gmail&logoColor=555" />
   </a>
   &nbsp;
   <a href="https://saamsani.com">
-    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=firefox-browser&logoColor=39FF14" alt="Website">
+    <img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=firefox-browser&logoColor=555" />
   </a>
   &nbsp;
   <a href="https://github.com/SaamSani">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=39FF14" alt="GitHub">
+    <img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github&logoColor=555" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaamSani&style=flat-square&color=111111&labelColor=111111&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=SaamSani&style=flat-square&color=0d1117&labelColor=0d1117&label=" />
 </div>
 
-<br>
-
-```
- $ exit
- > connection closed.
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=5000&pause=3000&color=333333&center=true&vCenter=true&repeat=true&width=300&height=30&lines=connection+terminated." alt="Typing SVG" />
+</div>
