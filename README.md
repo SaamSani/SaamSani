@@ -137,40 +137,6 @@
 
 <br>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaamSani&bg_color=0D1117&color=00F0FF&line=FF00FF&point=FFDF00&area=true&area_color=FF00FF&hide_border=true&custom_title=Neural%20Activity%20Graph" />
-</div>
-
-<br>
-
-<!-- Language stats -->
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaamSani&layout=compact&bg_color=0D1117&text_color=00F0FF&title_color=FF00FF&hide_border=true" />
-</div>
-
-<br>
-
-<!-- Neon divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
-</div>
-
-<br>
-
-<!-- Trophy section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%E2%96%B6+ACHIEVEMENT+LOG+%E2%97%80" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaamSani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br>
-
 <!-- Neon divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
@@ -208,17 +174,6 @@
 <!-- Profile views counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaamSani&style=for-the-badge&color=FF00FF&label=PROFILE+SCANS" />
-</div>
-
-<br>
-
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaamSani/SaamSani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaamSani/SaamSani/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SaamSani/SaamSani/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br>
