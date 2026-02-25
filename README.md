@@ -28,7 +28,7 @@
       <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="250">
     </td>
     <td>
-      <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;SYSTEM.ABOUT_ME</h3>
+      <h3>SYSTEM.ABOUT_ME</h3>
       <blockquote>
         <p>I'm a tech enthusiast with a passion for cryptocurrency, stock markets, and marketing. I love exploring how AI can be optimized for these fields. My goal is to leverage technology to transform how we approach financial analysis and digital marketing strategies.</p>
       </blockquote>
