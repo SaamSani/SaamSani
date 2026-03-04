@@ -100,7 +100,7 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaamSani&show_icons=true&bg_color=0d1117&text_color=555555&icon_color=555555&title_color=888888&hide_border=true" />
+  <img width="49%" src="https://github-readme-ashen-ten.vercel.app/api?username=SaamSani&show_icons=true&bg_color=0d1117&text_color=555555&icon_color=555555&title_color=888888&hide_border=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=SaamSani&background=0D1117&currStreakNum=888888&sideNums=888888&currStreakLabel=555555&sideLabels=555555&dates=333333&fire=888888&ring=555555&hide_border=true" />
 </div>
 
